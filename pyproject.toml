@@ -1,0 +1,11 @@
+[project]
+name = "fit-bit-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+]
